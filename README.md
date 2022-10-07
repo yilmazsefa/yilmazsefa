@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yilmazsefa
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Terraform, Ansible
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me sefaemirhanyilmaz@gmail.com
